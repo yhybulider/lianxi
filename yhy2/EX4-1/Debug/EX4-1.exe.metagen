@@ -1,0 +1,20 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly EX4-1, Version=1.0.*, Culture=固定语言(固定国家/地区): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Struct COLORS: AutoLayout, AnsiClass, Class, Public, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    COLORS Green = 0 : Public, Static, Literal, HasDefault
+    COLORS Red = 1 : Public, Static, Literal, HasDefault
+    COLORS Blue = 2 : Public, Static, Literal, HasDefault
+    COLORS Yellow = 3 : Public, Static, Literal, HasDefault
+    COLORS White = 4 : Public, Static, Literal, HasDefault

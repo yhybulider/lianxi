@@ -1,0 +1,20 @@
+﻿生成启动时间为 2019/12/9 23:29:20。
+     1>项目“F:\C++\yhy2\9-1Menu\9-1Menu\9-1Menu.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         F:\win\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\9-1Menu.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib "9-1Menu.cpp" SerialDlg.cpp
+         9-1Menu.cpp
+         SerialDlg.cpp
+         正在生成代码...
+       Link:
+         F:\win\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\C++\yhy2\9-1Menu\Debug\9-1Menu.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\My91Menu.Form1.resources /ASSEMBLYRESOURCE:Debug\My91Menu.SerialDlg.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\C++\yhy2\9-1Menu\Debug\9-1Menu.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\app.res
+         "Debug\9-1Menu.obj"
+         Debug\AssemblyInfo.obj
+         Debug\SerialDlg.obj
+         Debug\stdafx.obj
+         "Debug\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+         9-1Menu.vcxproj -> F:\C++\yhy2\9-1Menu\Debug\9-1Menu.exe
+     1>已完成生成项目“F:\C++\yhy2\9-1Menu\9-1Menu\9-1Menu.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.72

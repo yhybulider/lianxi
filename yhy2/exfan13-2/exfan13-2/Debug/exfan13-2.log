@@ -1,0 +1,18 @@
+﻿生成启动时间为 2019/12/9 20:37:43。
+     1>项目“F:\C++\yhy2\exfan13-2\exfan13-2\exfan13-2.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         F:\win\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\exfan13-2.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib "exfan13-2.cpp"
+         exfan13-2.cpp
+     1>f:\c++\yhy2\exfan13-2\exfan13-2\Form1.h(105): warning C4305: “初始化”: 从“double”到“float”截断
+       Link:
+         F:\win\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\C++\yhy2\exfan13-2\Debug\exfan13-2.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\exfan132.Form1.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\C++\yhy2\exfan13-2\Debug\exfan13-2.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\app.res
+         Debug\AssemblyInfo.obj
+         "Debug\exfan13-2.obj"
+         Debug\stdafx.obj
+         "Debug\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+         exfan13-2.vcxproj -> F:\C++\yhy2\exfan13-2\Debug\exfan13-2.exe
+     1>已完成生成项目“F:\C++\yhy2\exfan13-2\exfan13-2\exfan13-2.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.97

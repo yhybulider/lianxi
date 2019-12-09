@@ -1,0 +1,4 @@
+﻿  Ex_4.cpp
+  AssemblyInfo.obj :托管的代码存在时 /DEBUG:FASTLINK 不受支持；正在重新启动与 /DEBUG:FULL 的链接
+  Ex_4.vcxproj -> E:\yhy2\Ex_4\Debug\Ex_4.exe
+  Ex_4.vcxproj -> E:\yhy2\Ex_4\Debug\Ex_4.pdb (Partial PDB)

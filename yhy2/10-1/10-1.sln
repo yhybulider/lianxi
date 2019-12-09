@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10-1", "10-1\10-1.vcxproj", "{E55EDDC4-9F54-464F-ACC2-A57898E7167C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Form2", "Form2\Form2.vcxproj", "{B6681172-3374-444E-BEA0-9FB97FBB30D9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WordForm", "WordForm\WordForm.vcxproj", "{840F16D7-29A1-4E87-998F-99F0EF0B1139}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ImageForm", "ImageForm\ImageForm.vcxproj", "{458ED47C-E2A4-4749-B29D-387D8EB19824}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E55EDDC4-9F54-464F-ACC2-A57898E7167C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E55EDDC4-9F54-464F-ACC2-A57898E7167C}.Debug|Win32.Build.0 = Debug|Win32
+		{E55EDDC4-9F54-464F-ACC2-A57898E7167C}.Release|Win32.ActiveCfg = Release|Win32
+		{E55EDDC4-9F54-464F-ACC2-A57898E7167C}.Release|Win32.Build.0 = Release|Win32
+		{B6681172-3374-444E-BEA0-9FB97FBB30D9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B6681172-3374-444E-BEA0-9FB97FBB30D9}.Debug|Win32.Build.0 = Debug|Win32
+		{B6681172-3374-444E-BEA0-9FB97FBB30D9}.Release|Win32.ActiveCfg = Release|Win32
+		{B6681172-3374-444E-BEA0-9FB97FBB30D9}.Release|Win32.Build.0 = Release|Win32
+		{840F16D7-29A1-4E87-998F-99F0EF0B1139}.Debug|Win32.ActiveCfg = Debug|Win32
+		{840F16D7-29A1-4E87-998F-99F0EF0B1139}.Debug|Win32.Build.0 = Debug|Win32
+		{840F16D7-29A1-4E87-998F-99F0EF0B1139}.Release|Win32.ActiveCfg = Release|Win32
+		{840F16D7-29A1-4E87-998F-99F0EF0B1139}.Release|Win32.Build.0 = Release|Win32
+		{458ED47C-E2A4-4749-B29D-387D8EB19824}.Debug|Win32.ActiveCfg = Debug|Win32
+		{458ED47C-E2A4-4749-B29D-387D8EB19824}.Debug|Win32.Build.0 = Debug|Win32
+		{458ED47C-E2A4-4749-B29D-387D8EB19824}.Release|Win32.ActiveCfg = Release|Win32
+		{458ED47C-E2A4-4749-B29D-387D8EB19824}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
